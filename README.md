@@ -90,9 +90,7 @@ Su función es:
 
 <h2>Resultados</h2>
 <p>
-El sistema permite <strong>visualizar en tiempo real</strong> el número de compraventas por año según los datos enviados desde el productor.  
-Esta información puede servir como base para identificar <strong>tendencias de reciclaje</strong>, 
-<strong>aumentos en la actividad de recolección</strong> o <strong>zonas con mayor actividad comercial</strong> de materiales reciclables.
+El sistema permite visualizar en tiempo real el número de compraventas por año según los datos enviados desde el productor.  Esta información puede servir como base para identificar tendencias de reciclaje,  aumentos en la actividad de recolección o zonas con mayor actividad comercial de materiales reciclables.
 </p>
 
 <h2>Enlaces del conjunto de datos</h2>
